@@ -1,0 +1,5 @@
+Deduction: Make the intra.42.fr address reroute to 46.19.122.85
+Using the following file:
+/etc/hosts
+
+You can retoute the address with Sudo rights

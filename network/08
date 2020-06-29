@@ -1,0 +1,5 @@
+Deduction: Find the provider of slash16.org
+
+Use the following command to find the IP address: host slash16.org
+With the following command: whois 13.33.242.31
+We can determine that the provider is AWS

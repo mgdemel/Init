@@ -1,0 +1,6 @@
+Deduction: Use the output of the previous command to find the name and IP address of the
+device that makes the link between you (local network) and the outside world
+
+Use the command from the previous exercise and it's the nat.
+
+nat (10.60.1.1)  0.255 ms  0.165 ms  0.122 ms

@@ -1,0 +1,4 @@
+Output: Find the external IP of 42.fr
+Use the following command to find the output: nslookup 42.fr
+
+10.51.1.253
