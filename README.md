@@ -1,4 +1,5 @@
 # Init
+✅ Project score: 96/100 ✅  
 This was a project for Hive to learn the basics of system and network admin. To help me complete the project, I installed VirtualBox to create a virtual machine that ran on Debian. Here are all of my submissions for the assignment:
 
 ## Network
